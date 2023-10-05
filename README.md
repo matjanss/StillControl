@@ -5,3 +5,5 @@ Simple Arduino Nano based solid state relay control hardware and software
 
 Repository will be updated when board is tested.
 
+Please refer to the "Hardware" folder for the PCB & license information.
+
