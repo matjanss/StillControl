@@ -19,4 +19,4 @@ The PCB is a relatively simple breakout board for an Arduino Nano, exposing a nu
 Repository will be updated when board is tested, updates to be done in v1.1
 Hardware is licensed under Creative Commons NC BY SA.
 
-JLCPCB Production files and full KiCAD 7 files are availlable.
+JLCPCB Production files: StillSSR-Arduinonano.zip
