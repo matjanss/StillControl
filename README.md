@@ -9,9 +9,4 @@ Please refer to the "Hardware" folder for the PCB & license information, softwar
 
 https://youtu.be/iHSRMQVA5wc
 
-[![Watch the video](https://img.youtube.com/vi/iHSRMQVA5wc/default.jpg)](https://youtu.be/iHSRMQVA5wc)
-
-.. image:: https://img.youtube.com/vi/iHSRMQVA5wc/maxresdefault.jpg
-    :alt: placeholder
-    :target: https://www.youtube.com/watch?v=iHSRMQVA5wc
-
+[![Watch the video](https://img.youtube.com/vi/iHSRMQVA5wc/maxresdefault.jpg)](https://youtu.be/iHSRMQVA5wc)
